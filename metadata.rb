@@ -15,4 +15,3 @@ supports         "ubuntu"
 
 depends          "apt"
 depends          "nagios"
-depends          "hwraid" # add self for foodcritic
